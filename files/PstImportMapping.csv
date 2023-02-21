@@ -1,0 +1,3 @@
+Workload,FilePath,Name,Mailbox,IsArchive,TargetRootFolder,ContentCodePage,SPFileContainer,SPManifestContainer,SPSiteUrl
+Exchange,,annb.pst,annb@contoso.onmicrosoft.com,FALSE,/,,,,
+Exchange,,annb_archive.pst,annb@contoso.onmicrosoft.com,TRUE,,,,,
